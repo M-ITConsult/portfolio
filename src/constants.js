@@ -1,7 +1,7 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-    pc: `This is my PC. I work mostly in TypeScript, Vite these days.
+    pc: `This is my PC. I'm learning CyberSecurity & Ethical Hacking these days.
     I've made an ecommerce with java/angular and springboot. I also like Python and Kotlin. Anyway regardless of the language, I just like programming.
     Here is my <a href="https://github.com/M-ITConsult" target="_blank">Github</a>!`,
     tv: `That's my TV. I've been watching tech youtubers a lot recently like :
