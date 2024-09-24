@@ -277,17 +277,17 @@
                  "x":112.375,
                  "y":65.375
                 }, 
-                {
+                /*{
                  "height":0.125,
                  "id":31,
                  "name":"cadre-mur",
                  "rotation":0,
                  "type":"",
-                 "visible":false,
+                 "visible":true,
                  "width":0,
                  "x":127.5,
                  "y":79.75
-                }, 
+                },*/ 
                 {
                  "height":15.875,
                  "id":32,
