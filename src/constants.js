@@ -16,6 +16,6 @@ export const dialogueData = {
     library: `There are a lot of tech books on my shelves. There is even one in English (I also speak English btw).
     I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
     'sofa-table': `That's my sofa. I like to relax here and watch movies or tv shows sometimes like Mr. Robot :).`,
-    'cadre-mur': `Actually, I have two certifications <a href="https://github.com/M-ITConsult/portfolio/blob/main/Certification_C3SA.pdf" target="_blank">Here <a href="https://github.com/M-ITConsult/portfolio/blob/main/Ethical_Hacking_Intro.pdf" target="_blank">& Here`,
+    'cs-degree': `Actually, I have two certifications <a href="https://github.com/M-ITConsult/portfolio/blob/main/Certification_C3SA.pdf" target="_blank">Here <a href="https://github.com/M-ITConsult/portfolio/blob/main/Ethical_Hacking_Intro.pdf" target="_blank">& Here`,
     exit: `If you want to exit Jean-Christophe Miler's portfolio, just close the tab.`,
 }
